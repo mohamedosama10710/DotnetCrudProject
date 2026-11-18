@@ -1,0 +1,5 @@
+# GET http://localhost:5106/store/1/hello/my-extra-value?inStock=true
+
+
+
+GET http://localhost:5106/api/products

@@ -1,0 +1,53 @@
+2026-11-09 20:45:24.363 +02:00 [INF] Now listening on: http://localhost:5106
+2026-11-09 20:45:24.596 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2026-11-09 20:45:24.597 +02:00 [INF] Hosting environment: Development
+2026-11-09 20:45:24.597 +02:00 [INF] Content root path: C:\Users\DELL\OneDrive\Desktop\Wep-api\BasicWebApi
+2026-11-09 20:45:26.327 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5106/ - null null
+2026-11-09 20:45:26.590 +02:00 [INF] Request:
+Protocol: HTTP/1.1
+Method: GET
+Scheme: http
+PathBase: 
+Path: /
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/jxl,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Connection: keep-alive
+Host: localhost:5106
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
+Accept-Encoding: gzip, deflate, br, zstd
+Accept-Language: en,ar;q=0.9,ru;q=0.8
+Upgrade-Insecure-Requests: [Redacted]
+sec-ch-ua: [Redacted]
+sec-ch-ua-mobile: [Redacted]
+sec-ch-ua-platform: [Redacted]
+Sec-Fetch-Site: [Redacted]
+Sec-Fetch-Mode: [Redacted]
+Sec-Fetch-User: [Redacted]
+Sec-Fetch-Dest: [Redacted]
+2026-11-09 20:45:26.598 +02:00 [INF] Response:
+StatusCode: 404
+2026-11-09 20:45:26.659 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5106/ - 404 null null 322.8502ms
+2026-11-09 20:45:26.670 +02:00 [INF] Request reached the end of the middleware pipeline without being handled by application code. Request path: GET http://localhost:5106/, Response status code: 404
+2026-11-09 20:45:50.296 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5106/api/products - null null
+2026-11-09 20:45:50.304 +02:00 [INF] Request:
+Protocol: HTTP/1.1
+Method: GET
+Scheme: http
+PathBase: 
+Path: /api/products
+Connection: close
+Host: localhost:5106
+User-Agent: vscode-restclient
+Accept-Encoding: gzip, deflate
+2026-11-09 20:45:50.312 +02:00 [INF] Executing endpoint 'BasicWebApi.controllers.ProductsController.GetProducts (BasicWebApi)'
+2026-11-09 20:45:50.391 +02:00 [INF] Route matched with {action = "GetProducts", controller = "Products"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.ActionResult`1[System.Collections.Generic.IEnumerable`1[Product]] GetProducts() on controller BasicWebApi.controllers.ProductsController (BasicWebApi).
+2026-11-09 20:45:50.411 +02:00 [INF] Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[Product, BasicWebApi, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2026-11-09 20:45:50.531 +02:00 [INF] Executed action BasicWebApi.controllers.ProductsController.GetProducts (BasicWebApi) in 125.7526ms
+2026-11-09 20:45:50.531 +02:00 [INF] Executed endpoint 'BasicWebApi.controllers.ProductsController.GetProducts (BasicWebApi)'
+2026-11-09 20:45:50.532 +02:00 [INF] Response:
+StatusCode: 200
+Connection: close
+Content-Type: application/json; charset=utf-8
+Date: Mon, 09 Nov 2026 18:45:49 GMT
+Server: Kestrel
+Transfer-Encoding: chunked
+2026-11-09 20:45:50.533 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5106/api/products - 200 null application/json; charset=utf-8 239.4242ms

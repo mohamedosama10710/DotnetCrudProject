@@ -1,0 +1,1868 @@
+2026-11-18 17:22:22.901 +02:00 [INF] Now listening on: http://localhost:5106
+2026-11-18 17:22:22.941 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2026-11-18 17:22:22.942 +02:00 [INF] Hosting environment: Development
+2026-11-18 17:22:22.942 +02:00 [INF] Content root path: C:\Users\DELL\OneDrive\Desktop\Wep-api\BasicWebApi
+2026-11-18 17:22:23.186 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5106/ - null null
+2026-11-18 17:22:23.211 +02:00 [INF] Request:
+Protocol: HTTP/1.1
+Method: GET
+Scheme: http
+PathBase: 
+Path: /
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/jxl,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Connection: keep-alive
+Host: localhost:5106
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Safari/537.36
+Accept-Encoding: gzip, deflate, br, zstd
+Accept-Language: en,ar;q=0.9,ru;q=0.8
+Upgrade-Insecure-Requests: [Redacted]
+sec-ch-ua: [Redacted]
+sec-ch-ua-mobile: [Redacted]
+sec-ch-ua-platform: [Redacted]
+Sec-Fetch-Site: [Redacted]
+Sec-Fetch-Mode: [Redacted]
+Sec-Fetch-User: [Redacted]
+Sec-Fetch-Dest: [Redacted]
+2026-11-18 17:22:23.228 +02:00 [INF] Response:
+StatusCode: 404
+2026-11-18 17:22:23.234 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5106/ - 404 null null 50.1839ms
+2026-11-18 17:22:23.235 +02:00 [INF] Request reached the end of the middleware pipeline without being handled by application code. Request path: GET http://localhost:5106/, Response status code: 404
+2026-11-18 17:22:37.966 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5106/ - null null
+2026-11-18 17:22:37.967 +02:00 [INF] Request:
+Protocol: HTTP/1.1
+Method: GET
+Scheme: http
+PathBase: 
+Path: /
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/jxl,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Connection: keep-alive
+Host: localhost:5106
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Safari/537.36
+Accept-Encoding: gzip, deflate, br, zstd
+Accept-Language: en,ar;q=0.9,ru;q=0.8
+Upgrade-Insecure-Requests: [Redacted]
+sec-ch-ua: [Redacted]
+sec-ch-ua-mobile: [Redacted]
+sec-ch-ua-platform: [Redacted]
+Sec-Fetch-Site: [Redacted]
+Sec-Fetch-Mode: [Redacted]
+Sec-Fetch-User: [Redacted]
+Sec-Fetch-Dest: [Redacted]
+2026-11-18 17:22:37.968 +02:00 [INF] Response:
+StatusCode: 404
+2026-11-18 17:22:37.968 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5106/ - 404 null null 3.0214ms
+2026-11-18 17:22:37.969 +02:00 [INF] Request reached the end of the middleware pipeline without being handled by application code. Request path: GET http://localhost:5106/, Response status code: 404
+2026-11-18 17:22:44.919 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5106/swagger - null null
+2026-11-18 17:22:44.920 +02:00 [INF] Request:
+Protocol: HTTP/1.1
+Method: GET
+Scheme: http
+PathBase: 
+Path: /swagger
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/jxl,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Connection: keep-alive
+Host: localhost:5106
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Safari/537.36
+Accept-Encoding: gzip, deflate, br, zstd
+Accept-Language: en,ar;q=0.9,ru;q=0.8
+Upgrade-Insecure-Requests: [Redacted]
+sec-ch-ua: [Redacted]
+sec-ch-ua-mobile: [Redacted]
+sec-ch-ua-platform: [Redacted]
+Sec-Fetch-Site: [Redacted]
+Sec-Fetch-Mode: [Redacted]
+Sec-Fetch-User: [Redacted]
+Sec-Fetch-Dest: [Redacted]
+2026-11-18 17:22:44.921 +02:00 [INF] Response:
+StatusCode: 301
+Location: swagger/index.html
+2026-11-18 17:22:44.922 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5106/swagger - 301 null null 3.651ms
+2026-11-18 17:22:44.925 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5106/swagger/index.html - null null
+2026-11-18 17:22:44.925 +02:00 [INF] Request:
+Protocol: HTTP/1.1
+Method: GET
+Scheme: http
+PathBase: 
+Path: /swagger/index.html
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/jxl,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Connection: keep-alive
+Host: localhost:5106
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Safari/537.36
+Accept-Encoding: gzip, deflate, br, zstd
+Accept-Language: en,ar;q=0.9,ru;q=0.8
+If-None-Match: [Redacted]
+Upgrade-Insecure-Requests: [Redacted]
+Sec-Fetch-Site: [Redacted]
+Sec-Fetch-Mode: [Redacted]
+Sec-Fetch-User: [Redacted]
+Sec-Fetch-Dest: [Redacted]
+sec-ch-ua: [Redacted]
+sec-ch-ua-mobile: [Redacted]
+sec-ch-ua-platform: [Redacted]
+2026-11-18 17:22:44.981 +02:00 [INF] Response:
+StatusCode: 304
+2026-11-18 17:22:44.981 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5106/swagger/index.html - 304 null null 56.4927ms
+2026-11-18 17:22:44.989 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5106/swagger/swagger-ui.css - null null
+2026-11-18 17:22:44.989 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5106/swagger/index.css - null null
+2026-11-18 17:22:44.990 +02:00 [INF] Request:
+Protocol: HTTP/1.1
+Method: GET
+Scheme: http
+PathBase: 
+Path: /swagger/swagger-ui.css
+Accept: text/css,*/*;q=0.1
+Connection: keep-alive
+Host: localhost:5106
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Safari/537.36
+Accept-Encoding: gzip, deflate, br, zstd
+Accept-Language: en,ar;q=0.9,ru;q=0.8
+If-None-Match: [Redacted]
+Referer: [Redacted]
+sec-ch-ua-platform: [Redacted]
+sec-ch-ua: [Redacted]
+sec-ch-ua-mobile: [Redacted]
+Sec-Fetch-Site: [Redacted]
+Sec-Fetch-Mode: [Redacted]
+Sec-Fetch-Dest: [Redacted]
+2026-11-18 17:22:44.990 +02:00 [INF] Request:
+Protocol: HTTP/1.1
+Method: GET
+Scheme: http
+PathBase: 
+Path: /swagger/index.css
+Accept: text/css,*/*;q=0.1
+Connection: keep-alive
+Host: localhost:5106
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Safari/537.36
+Accept-Encoding: gzip, deflate, br, zstd
+Accept-Language: en,ar;q=0.9,ru;q=0.8
+If-None-Match: [Redacted]
+Referer: [Redacted]
+sec-ch-ua-platform: [Redacted]
+sec-ch-ua: [Redacted]
+sec-ch-ua-mobile: [Redacted]
+Sec-Fetch-Site: [Redacted]
+Sec-Fetch-Mode: [Redacted]
+Sec-Fetch-Dest: [Redacted]
+2026-11-18 17:22:44.990 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5106/_framework/aspnetcore-browser-refresh.js - null null
+2026-11-18 17:22:44.990 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5106/swagger/swagger-ui-bundle.js - null null
+2026-11-18 17:22:44.991 +02:00 [INF] Request:
+Protocol: HTTP/1.1
+Method: GET
+Scheme: http
+PathBase: 
+Path: /swagger/swagger-ui-bundle.js
+Accept: */*
+Connection: keep-alive
+Host: localhost:5106
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Safari/537.36
+Accept-Encoding: gzip, deflate, br, zstd
+Accept-Language: en,ar;q=0.9,ru;q=0.8
+If-None-Match: [Redacted]
+Referer: [Redacted]
+sec-ch-ua-platform: [Redacted]
+sec-ch-ua: [Redacted]
+sec-ch-ua-mobile: [Redacted]
+Sec-Fetch-Site: [Redacted]
+Sec-Fetch-Mode: [Redacted]
+Sec-Fetch-Dest: [Redacted]
+2026-11-18 17:22:44.991 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5106/swagger/index.js - null null
+2026-11-18 17:22:44.991 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5106/swagger/swagger-ui-standalone-preset.js - null null
+2026-11-18 17:22:44.991 +02:00 [INF] Request:
+Protocol: HTTP/1.1
+Method: GET
+Scheme: http
+PathBase: 
+Path: /swagger/index.js
+Accept: */*
+Connection: keep-alive
+Host: localhost:5106
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Safari/537.36
+Accept-Encoding: gzip, deflate, br, zstd
+Accept-Language: en,ar;q=0.9,ru;q=0.8
+If-None-Match: [Redacted]
+Referer: [Redacted]
+sec-ch-ua-platform: [Redacted]
+sec-ch-ua: [Redacted]
+sec-ch-ua-mobile: [Redacted]
+Sec-Fetch-Site: [Redacted]
+Sec-Fetch-Mode: [Redacted]
+Sec-Fetch-Dest: [Redacted]
+2026-11-18 17:22:44.991 +02:00 [INF] Request:
+Protocol: HTTP/1.1
+Method: GET
+Scheme: http
+PathBase: 
+Path: /swagger/swagger-ui-standalone-preset.js
+Accept: */*
+Connection: keep-alive
+Host: localhost:5106
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Safari/537.36
+Accept-Encoding: gzip, deflate, br, zstd
+Accept-Language: en,ar;q=0.9,ru;q=0.8
+If-None-Match: [Redacted]
+Referer: [Redacted]
+sec-ch-ua-platform: [Redacted]
+sec-ch-ua: [Redacted]
+sec-ch-ua-mobile: [Redacted]
+Sec-Fetch-Site: [Redacted]
+Sec-Fetch-Mode: [Redacted]
+Sec-Fetch-Dest: [Redacted]
+2026-11-18 17:22:44.992 +02:00 [INF] Response:
+StatusCode: 304
+2026-11-18 17:22:44.992 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5106/swagger/index.js - 304 null null 1.0435ms
+2026-11-18 17:22:44.993 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5106/_framework/aspnetcore-browser-refresh.js - 200 14901 application/javascript; charset=utf-8 2.3702ms
+2026-11-18 17:22:44.999 +02:00 [INF] Response:
+StatusCode: 304
+ETag: [Redacted]
+Vary: [Redacted]
+2026-11-18 17:22:44.999 +02:00 [INF] Response:
+StatusCode: 304
+ETag: [Redacted]
+Vary: [Redacted]
+2026-11-18 17:22:44.999 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5106/swagger/swagger-ui.css - 304 null null 10.585ms
+2026-11-18 17:22:44.999 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5106/swagger/index.css - 304 null null 10.5784ms
+2026-11-18 17:22:45.000 +02:00 [INF] Response:
+StatusCode: 304
+ETag: [Redacted]
+Vary: [Redacted]
+2026-11-18 17:22:45.001 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5106/swagger/swagger-ui-standalone-preset.js - 304 null null 10.391ms
+2026-11-18 17:22:45.019 +02:00 [INF] Response:
+StatusCode: 304
+ETag: [Redacted]
+Vary: [Redacted]
+2026-11-18 17:22:45.019 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5106/swagger/swagger-ui-bundle.js - 304 null null 28.5838ms
+2026-11-18 17:22:45.180 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5106/swagger/v1/swagger.json - null null
+2026-11-18 17:22:45.180 +02:00 [INF] Request:
+Protocol: HTTP/1.1
+Method: GET
+Scheme: http
+PathBase: 
+Path: /swagger/v1/swagger.json
+Accept: application/json,*/*
+Connection: keep-alive
+Host: localhost:5106
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Safari/537.36
+Accept-Encoding: gzip, deflate, br, zstd
+Accept-Language: en,ar;q=0.9,ru;q=0.8
+Referer: [Redacted]
+sec-ch-ua-platform: [Redacted]
+sec-ch-ua: [Redacted]
+sec-ch-ua-mobile: [Redacted]
+Sec-Fetch-Site: [Redacted]
+Sec-Fetch-Mode: [Redacted]
+Sec-Fetch-Dest: [Redacted]
+2026-11-18 17:22:45.184 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5106/swagger/favicon-32x32.png - null null
+2026-11-18 17:22:45.184 +02:00 [INF] Request:
+Protocol: HTTP/1.1
+Method: GET
+Scheme: http
+PathBase: 
+Path: /swagger/favicon-32x32.png
+Accept: image/jxl,image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Connection: keep-alive
+Host: localhost:5106
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Safari/537.36
+Accept-Encoding: gzip, deflate, br, zstd
+Accept-Language: en,ar;q=0.9,ru;q=0.8
+Referer: [Redacted]
+sec-ch-ua-platform: [Redacted]
+sec-ch-ua: [Redacted]
+sec-ch-ua-mobile: [Redacted]
+Sec-Fetch-Site: [Redacted]
+Sec-Fetch-Mode: [Redacted]
+Sec-Fetch-Dest: [Redacted]
+2026-11-18 17:22:45.185 +02:00 [INF] Response:
+StatusCode: 200
+Content-Type: image/png
+Date: Wed, 18 Nov 2026 15:22:45 GMT
+Server: Kestrel
+Cache-Control: [Redacted]
+ETag: [Redacted]
+Vary: [Redacted]
+Content-Length: 628
+2026-11-18 17:22:45.185 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5106/swagger/favicon-32x32.png - 200 628 image/png 1.3057ms
+2026-11-18 17:22:45.275 +02:00 [INF] Response:
+StatusCode: 200
+Content-Type: application/json;charset=utf-8
+Date: Wed, 18 Nov 2026 15:22:45 GMT
+Server: Kestrel
+Transfer-Encoding: chunked
+2026-11-18 17:22:45.275 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5106/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 95.5234ms
+2026-11-18 18:57:17.363 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5106/swagger/index.html - null null
+2026-11-18 18:57:17.363 +02:00 [INF] Request:
+Protocol: HTTP/1.1
+Method: GET
+Scheme: http
+PathBase: 
+Path: /swagger/index.html
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/jxl,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Connection: keep-alive
+Host: localhost:5106
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Safari/537.36
+Accept-Encoding: gzip, deflate, br, zstd
+Accept-Language: en,ar;q=0.9,ru;q=0.8
+Cache-Control: max-age=0
+If-None-Match: [Redacted]
+Referer: [Redacted]
+Upgrade-Insecure-Requests: [Redacted]
+sec-ch-ua: [Redacted]
+sec-ch-ua-mobile: [Redacted]
+sec-ch-ua-platform: [Redacted]
+Sec-Fetch-Site: [Redacted]
+Sec-Fetch-Mode: [Redacted]
+Sec-Fetch-Dest: [Redacted]
+2026-11-18 18:57:17.364 +02:00 [INF] Response:
+StatusCode: 304
+2026-11-18 18:57:17.364 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5106/swagger/index.html - 304 null null 1.8332ms
+2026-11-18 18:57:17.371 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5106/swagger/swagger-ui.css - null null
+2026-11-18 18:57:17.371 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5106/swagger/index.css - null null
+2026-11-18 18:57:17.372 +02:00 [INF] Request:
+Protocol: HTTP/1.1
+Method: GET
+Scheme: http
+PathBase: 
+Path: /swagger/index.css
+Accept: text/css,*/*;q=0.1
+Connection: keep-alive
+Host: localhost:5106
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Safari/537.36
+Accept-Encoding: gzip, deflate, br, zstd
+Accept-Language: en,ar;q=0.9,ru;q=0.8
+If-None-Match: [Redacted]
+Referer: [Redacted]
+sec-ch-ua-platform: [Redacted]
+sec-ch-ua: [Redacted]
+sec-ch-ua-mobile: [Redacted]
+Sec-Fetch-Site: [Redacted]
+Sec-Fetch-Mode: [Redacted]
+Sec-Fetch-Dest: [Redacted]
+2026-11-18 18:57:17.372 +02:00 [INF] Response:
+StatusCode: 304
+ETag: [Redacted]
+Vary: [Redacted]
+2026-11-18 18:57:17.372 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5106/swagger/swagger-ui-bundle.js - null null
+2026-11-18 18:57:17.372 +02:00 [INF] Request:
+Protocol: HTTP/1.1
+Method: GET
+Scheme: http
+PathBase: 
+Path: /swagger/swagger-ui-bundle.js
+Accept: */*
+Connection: keep-alive
+Host: localhost:5106
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Safari/537.36
+Accept-Encoding: gzip, deflate, br, zstd
+Accept-Language: en,ar;q=0.9,ru;q=0.8
+If-None-Match: [Redacted]
+Referer: [Redacted]
+sec-ch-ua-platform: [Redacted]
+sec-ch-ua: [Redacted]
+sec-ch-ua-mobile: [Redacted]
+Sec-Fetch-Site: [Redacted]
+Sec-Fetch-Mode: [Redacted]
+Sec-Fetch-Dest: [Redacted]
+2026-11-18 18:57:17.372 +02:00 [INF] Response:
+StatusCode: 304
+ETag: [Redacted]
+Vary: [Redacted]
+2026-11-18 18:57:17.372 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5106/swagger/index.css - 304 null null 0.6384ms
+2026-11-18 18:57:17.372 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5106/swagger/swagger-ui-bundle.js - 304 null null 0.3713ms
+2026-11-18 18:57:17.373 +02:00 [INF] Request:
+Protocol: HTTP/1.1
+Method: GET
+Scheme: http
+PathBase: 
+Path: /swagger/swagger-ui.css
+Accept: text/css,*/*;q=0.1
+Connection: keep-alive
+Host: localhost:5106
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Safari/537.36
+Accept-Encoding: gzip, deflate, br, zstd
+Accept-Language: en,ar;q=0.9,ru;q=0.8
+If-None-Match: [Redacted]
+Referer: [Redacted]
+sec-ch-ua-platform: [Redacted]
+sec-ch-ua: [Redacted]
+sec-ch-ua-mobile: [Redacted]
+Sec-Fetch-Site: [Redacted]
+Sec-Fetch-Mode: [Redacted]
+Sec-Fetch-Dest: [Redacted]
+2026-11-18 18:57:17.373 +02:00 [INF] Response:
+StatusCode: 304
+ETag: [Redacted]
+Vary: [Redacted]
+2026-11-18 18:57:17.374 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5106/swagger/swagger-ui.css - 304 null null 2.1597ms
+2026-11-18 18:57:17.379 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5106/_framework/aspnetcore-browser-refresh.js - null null
+2026-11-18 18:57:17.379 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5106/swagger/swagger-ui-standalone-preset.js - null null
+2026-11-18 18:57:17.380 +02:00 [INF] Request:
+Protocol: HTTP/1.1
+Method: GET
+Scheme: http
+PathBase: 
+Path: /swagger/swagger-ui-standalone-preset.js
+Accept: */*
+Connection: keep-alive
+Host: localhost:5106
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Safari/537.36
+Accept-Encoding: gzip, deflate, br, zstd
+Accept-Language: en,ar;q=0.9,ru;q=0.8
+If-None-Match: [Redacted]
+Referer: [Redacted]
+sec-ch-ua-platform: [Redacted]
+sec-ch-ua: [Redacted]
+sec-ch-ua-mobile: [Redacted]
+Sec-Fetch-Site: [Redacted]
+Sec-Fetch-Mode: [Redacted]
+Sec-Fetch-Dest: [Redacted]
+2026-11-18 18:57:17.380 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5106/_framework/aspnetcore-browser-refresh.js - 200 14901 application/javascript; charset=utf-8 0.3675ms
+2026-11-18 18:57:17.380 +02:00 [INF] Response:
+StatusCode: 304
+ETag: [Redacted]
+Vary: [Redacted]
+2026-11-18 18:57:17.380 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5106/swagger/swagger-ui-standalone-preset.js - 304 null null 0.5792ms
+2026-11-18 18:57:17.380 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5106/swagger/index.js - null null
+2026-11-18 18:57:17.381 +02:00 [INF] Request:
+Protocol: HTTP/1.1
+Method: GET
+Scheme: http
+PathBase: 
+Path: /swagger/index.js
+Accept: */*
+Connection: keep-alive
+Host: localhost:5106
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Safari/537.36
+Accept-Encoding: gzip, deflate, br, zstd
+Accept-Language: en,ar;q=0.9,ru;q=0.8
+If-None-Match: [Redacted]
+Referer: [Redacted]
+sec-ch-ua-platform: [Redacted]
+sec-ch-ua: [Redacted]
+sec-ch-ua-mobile: [Redacted]
+Sec-Fetch-Site: [Redacted]
+Sec-Fetch-Mode: [Redacted]
+Sec-Fetch-Dest: [Redacted]
+2026-11-18 18:57:17.382 +02:00 [INF] Response:
+StatusCode: 304
+2026-11-18 18:57:17.382 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5106/swagger/index.js - 304 null null 2.0069ms
+2026-11-18 18:57:17.582 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5106/swagger/v1/swagger.json - null null
+2026-11-18 18:57:17.582 +02:00 [INF] Request:
+Protocol: HTTP/1.1
+Method: GET
+Scheme: http
+PathBase: 
+Path: /swagger/v1/swagger.json
+Accept: application/json,*/*
+Connection: keep-alive
+Host: localhost:5106
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Safari/537.36
+Accept-Encoding: gzip, deflate, br, zstd
+Accept-Language: en,ar;q=0.9,ru;q=0.8
+Referer: [Redacted]
+sec-ch-ua-platform: [Redacted]
+sec-ch-ua: [Redacted]
+sec-ch-ua-mobile: [Redacted]
+Sec-Fetch-Site: [Redacted]
+Sec-Fetch-Mode: [Redacted]
+Sec-Fetch-Dest: [Redacted]
+2026-11-18 18:57:17.583 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5106/swagger/favicon-32x32.png - null null
+2026-11-18 18:57:17.583 +02:00 [INF] Request:
+Protocol: HTTP/1.1
+Method: GET
+Scheme: http
+PathBase: 
+Path: /swagger/favicon-32x32.png
+Accept: image/jxl,image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Connection: keep-alive
+Host: localhost:5106
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Safari/537.36
+Accept-Encoding: gzip, deflate, br, zstd
+Accept-Language: en,ar;q=0.9,ru;q=0.8
+If-None-Match: [Redacted]
+Referer: [Redacted]
+sec-ch-ua-platform: [Redacted]
+sec-ch-ua: [Redacted]
+sec-ch-ua-mobile: [Redacted]
+Sec-Fetch-Site: [Redacted]
+Sec-Fetch-Mode: [Redacted]
+Sec-Fetch-Dest: [Redacted]
+2026-11-18 18:57:17.584 +02:00 [INF] Response:
+StatusCode: 304
+ETag: [Redacted]
+Vary: [Redacted]
+2026-11-18 18:57:17.584 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5106/swagger/favicon-32x32.png - 304 null null 0.4842ms
+2026-11-18 18:57:17.586 +02:00 [INF] Response:
+StatusCode: 200
+Content-Type: application/json;charset=utf-8
+Date: Wed, 18 Nov 2026 16:57:17 GMT
+Server: Kestrel
+Transfer-Encoding: chunked
+2026-11-18 18:57:17.586 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5106/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 3.7134ms
+2026-11-18 18:57:56.271 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5106/swagger/index.html - null null
+2026-11-18 18:57:56.271 +02:00 [INF] Request:
+Protocol: HTTP/1.1
+Method: GET
+Scheme: http
+PathBase: 
+Path: /swagger/index.html
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/jxl,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Connection: keep-alive
+Host: localhost:5106
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Safari/537.36
+Accept-Encoding: gzip, deflate, br, zstd
+Accept-Language: en,ar;q=0.9,ru;q=0.8
+Cache-Control: max-age=0
+If-None-Match: [Redacted]
+Referer: [Redacted]
+Upgrade-Insecure-Requests: [Redacted]
+sec-ch-ua: [Redacted]
+sec-ch-ua-mobile: [Redacted]
+sec-ch-ua-platform: [Redacted]
+Sec-Fetch-Site: [Redacted]
+Sec-Fetch-Mode: [Redacted]
+Sec-Fetch-Dest: [Redacted]
+2026-11-18 18:57:56.272 +02:00 [INF] Response:
+StatusCode: 304
+2026-11-18 18:57:56.272 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5106/swagger/index.html - 304 null null 1.0227ms
+2026-11-18 18:57:56.278 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5106/swagger/swagger-ui.css - null null
+2026-11-18 18:57:56.278 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5106/swagger/index.css - null null
+2026-11-18 18:57:56.278 +02:00 [INF] Request:
+Protocol: HTTP/1.1
+Method: GET
+Scheme: http
+PathBase: 
+Path: /swagger/swagger-ui.css
+Accept: text/css,*/*;q=0.1
+Connection: keep-alive
+Host: localhost:5106
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Safari/537.36
+Accept-Encoding: gzip, deflate, br, zstd
+Accept-Language: en,ar;q=0.9,ru;q=0.8
+If-None-Match: [Redacted]
+Referer: [Redacted]
+sec-ch-ua-platform: [Redacted]
+sec-ch-ua: [Redacted]
+sec-ch-ua-mobile: [Redacted]
+Sec-Fetch-Site: [Redacted]
+Sec-Fetch-Mode: [Redacted]
+Sec-Fetch-Dest: [Redacted]
+2026-11-18 18:57:56.278 +02:00 [INF] Request:
+Protocol: HTTP/1.1
+Method: GET
+Scheme: http
+PathBase: 
+Path: /swagger/index.css
+Accept: text/css,*/*;q=0.1
+Connection: keep-alive
+Host: localhost:5106
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Safari/537.36
+Accept-Encoding: gzip, deflate, br, zstd
+Accept-Language: en,ar;q=0.9,ru;q=0.8
+If-None-Match: [Redacted]
+Referer: [Redacted]
+sec-ch-ua-platform: [Redacted]
+sec-ch-ua: [Redacted]
+sec-ch-ua-mobile: [Redacted]
+Sec-Fetch-Site: [Redacted]
+Sec-Fetch-Mode: [Redacted]
+Sec-Fetch-Dest: [Redacted]
+2026-11-18 18:57:56.278 +02:00 [INF] Response:
+StatusCode: 304
+ETag: [Redacted]
+Vary: [Redacted]
+2026-11-18 18:57:56.278 +02:00 [INF] Response:
+StatusCode: 304
+ETag: [Redacted]
+Vary: [Redacted]
+2026-11-18 18:57:56.278 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5106/swagger/index.css - 304 null null 0.2753ms
+2026-11-18 18:57:56.278 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5106/swagger/swagger-ui.css - 304 null null 0.3437ms
+2026-11-18 18:57:56.279 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5106/swagger/swagger-ui-bundle.js - null null
+2026-11-18 18:57:56.279 +02:00 [INF] Request:
+Protocol: HTTP/1.1
+Method: GET
+Scheme: http
+PathBase: 
+Path: /swagger/swagger-ui-bundle.js
+Accept: */*
+Connection: keep-alive
+Host: localhost:5106
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Safari/537.36
+Accept-Encoding: gzip, deflate, br, zstd
+Accept-Language: en,ar;q=0.9,ru;q=0.8
+If-None-Match: [Redacted]
+Referer: [Redacted]
+sec-ch-ua-platform: [Redacted]
+sec-ch-ua: [Redacted]
+sec-ch-ua-mobile: [Redacted]
+Sec-Fetch-Site: [Redacted]
+Sec-Fetch-Mode: [Redacted]
+Sec-Fetch-Dest: [Redacted]
+2026-11-18 18:57:56.279 +02:00 [INF] Response:
+StatusCode: 304
+ETag: [Redacted]
+Vary: [Redacted]
+2026-11-18 18:57:56.279 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5106/swagger/swagger-ui-bundle.js - 304 null null 0.2571ms
+2026-11-18 18:57:56.287 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5106/swagger/swagger-ui-standalone-preset.js - null null
+2026-11-18 18:57:56.287 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5106/swagger/index.js - null null
+2026-11-18 18:57:56.287 +02:00 [INF] Request:
+Protocol: HTTP/1.1
+Method: GET
+Scheme: http
+PathBase: 
+Path: /swagger/swagger-ui-standalone-preset.js
+Accept: */*
+Connection: keep-alive
+Host: localhost:5106
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Safari/537.36
+Accept-Encoding: gzip, deflate, br, zstd
+Accept-Language: en,ar;q=0.9,ru;q=0.8
+If-None-Match: [Redacted]
+Referer: [Redacted]
+sec-ch-ua-platform: [Redacted]
+sec-ch-ua: [Redacted]
+sec-ch-ua-mobile: [Redacted]
+Sec-Fetch-Site: [Redacted]
+Sec-Fetch-Mode: [Redacted]
+Sec-Fetch-Dest: [Redacted]
+2026-11-18 18:57:56.287 +02:00 [INF] Request:
+Protocol: HTTP/1.1
+Method: GET
+Scheme: http
+PathBase: 
+Path: /swagger/index.js
+Accept: */*
+Connection: keep-alive
+Host: localhost:5106
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Safari/537.36
+Accept-Encoding: gzip, deflate, br, zstd
+Accept-Language: en,ar;q=0.9,ru;q=0.8
+If-None-Match: [Redacted]
+Referer: [Redacted]
+sec-ch-ua-platform: [Redacted]
+sec-ch-ua: [Redacted]
+sec-ch-ua-mobile: [Redacted]
+Sec-Fetch-Site: [Redacted]
+Sec-Fetch-Mode: [Redacted]
+Sec-Fetch-Dest: [Redacted]
+2026-11-18 18:57:56.288 +02:00 [INF] Response:
+StatusCode: 304
+ETag: [Redacted]
+Vary: [Redacted]
+2026-11-18 18:57:56.288 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5106/swagger/swagger-ui-standalone-preset.js - 304 null null 0.393ms
+2026-11-18 18:57:56.288 +02:00 [INF] Response:
+StatusCode: 304
+2026-11-18 18:57:56.288 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5106/swagger/index.js - 304 null null 0.5597ms
+2026-11-18 18:57:56.289 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5106/_framework/aspnetcore-browser-refresh.js - null null
+2026-11-18 18:57:56.289 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5106/_framework/aspnetcore-browser-refresh.js - 200 14901 application/javascript; charset=utf-8 0.2815ms
+2026-11-18 18:57:56.349 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5106/swagger/v1/swagger.json - null null
+2026-11-18 18:57:56.350 +02:00 [INF] Request:
+Protocol: HTTP/1.1
+Method: GET
+Scheme: http
+PathBase: 
+Path: /swagger/v1/swagger.json
+Accept: application/json,*/*
+Connection: keep-alive
+Host: localhost:5106
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Safari/537.36
+Accept-Encoding: gzip, deflate, br, zstd
+Accept-Language: en,ar;q=0.9,ru;q=0.8
+Referer: [Redacted]
+sec-ch-ua-platform: [Redacted]
+sec-ch-ua: [Redacted]
+sec-ch-ua-mobile: [Redacted]
+Sec-Fetch-Site: [Redacted]
+Sec-Fetch-Mode: [Redacted]
+Sec-Fetch-Dest: [Redacted]
+2026-11-18 18:57:56.350 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5106/swagger/favicon-32x32.png - null null
+2026-11-18 18:57:56.350 +02:00 [INF] Request:
+Protocol: HTTP/1.1
+Method: GET
+Scheme: http
+PathBase: 
+Path: /swagger/favicon-32x32.png
+Accept: image/jxl,image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Connection: keep-alive
+Host: localhost:5106
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Safari/537.36
+Accept-Encoding: gzip, deflate, br, zstd
+Accept-Language: en,ar;q=0.9,ru;q=0.8
+If-None-Match: [Redacted]
+Referer: [Redacted]
+sec-ch-ua-platform: [Redacted]
+sec-ch-ua: [Redacted]
+sec-ch-ua-mobile: [Redacted]
+Sec-Fetch-Site: [Redacted]
+Sec-Fetch-Mode: [Redacted]
+Sec-Fetch-Dest: [Redacted]
+2026-11-18 18:57:56.350 +02:00 [INF] Response:
+StatusCode: 304
+ETag: [Redacted]
+Vary: [Redacted]
+2026-11-18 18:57:56.350 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5106/swagger/favicon-32x32.png - 304 null null 0.314ms
+2026-11-18 18:57:56.352 +02:00 [INF] Response:
+StatusCode: 200
+Content-Type: application/json;charset=utf-8
+Date: Wed, 18 Nov 2026 16:57:55 GMT
+Server: Kestrel
+Transfer-Encoding: chunked
+2026-11-18 18:57:56.353 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5106/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 3.1741ms
+2026-11-18 18:58:30.496 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5106/swagger/index.html - null null
+2026-11-18 18:58:30.497 +02:00 [INF] Request:
+Protocol: HTTP/1.1
+Method: GET
+Scheme: http
+PathBase: 
+Path: /swagger/index.html
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/jxl,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Connection: keep-alive
+Host: localhost:5106
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Safari/537.36
+Accept-Encoding: gzip, deflate, br, zstd
+Accept-Language: en,ar;q=0.9,ru;q=0.8
+Cache-Control: max-age=0
+If-None-Match: [Redacted]
+Referer: [Redacted]
+Upgrade-Insecure-Requests: [Redacted]
+sec-ch-ua: [Redacted]
+sec-ch-ua-mobile: [Redacted]
+sec-ch-ua-platform: [Redacted]
+Sec-Fetch-Site: [Redacted]
+Sec-Fetch-Mode: [Redacted]
+Sec-Fetch-Dest: [Redacted]
+2026-11-18 18:58:30.498 +02:00 [INF] Response:
+StatusCode: 304
+2026-11-18 18:58:30.498 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5106/swagger/index.html - 304 null null 1.7927ms
+2026-11-18 18:58:30.512 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5106/swagger/swagger-ui.css - null null
+2026-11-18 18:58:30.512 +02:00 [INF] Request:
+Protocol: HTTP/1.1
+Method: GET
+Scheme: http
+PathBase: 
+Path: /swagger/swagger-ui.css
+Accept: text/css,*/*;q=0.1
+Connection: keep-alive
+Host: localhost:5106
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Safari/537.36
+Accept-Encoding: gzip, deflate, br, zstd
+Accept-Language: en,ar;q=0.9,ru;q=0.8
+If-None-Match: [Redacted]
+Referer: [Redacted]
+sec-ch-ua-platform: [Redacted]
+sec-ch-ua: [Redacted]
+sec-ch-ua-mobile: [Redacted]
+Sec-Fetch-Site: [Redacted]
+Sec-Fetch-Mode: [Redacted]
+Sec-Fetch-Dest: [Redacted]
+2026-11-18 18:58:30.512 +02:00 [INF] Response:
+StatusCode: 304
+ETag: [Redacted]
+Vary: [Redacted]
+2026-11-18 18:58:30.512 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5106/swagger/swagger-ui.css - 304 null null 0.4956ms
+2026-11-18 18:58:30.512 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5106/swagger/index.css - null null
+2026-11-18 18:58:30.512 +02:00 [INF] Request:
+Protocol: HTTP/1.1
+Method: GET
+Scheme: http
+PathBase: 
+Path: /swagger/index.css
+Accept: text/css,*/*;q=0.1
+Connection: keep-alive
+Host: localhost:5106
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Safari/537.36
+Accept-Encoding: gzip, deflate, br, zstd
+Accept-Language: en,ar;q=0.9,ru;q=0.8
+If-None-Match: [Redacted]
+Referer: [Redacted]
+sec-ch-ua-platform: [Redacted]
+sec-ch-ua: [Redacted]
+sec-ch-ua-mobile: [Redacted]
+Sec-Fetch-Site: [Redacted]
+Sec-Fetch-Mode: [Redacted]
+Sec-Fetch-Dest: [Redacted]
+2026-11-18 18:58:30.513 +02:00 [INF] Response:
+StatusCode: 304
+ETag: [Redacted]
+Vary: [Redacted]
+2026-11-18 18:58:30.513 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5106/swagger/index.css - 304 null null 0.7773ms
+2026-11-18 18:58:30.513 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5106/swagger/swagger-ui-bundle.js - null null
+2026-11-18 18:58:30.514 +02:00 [INF] Request:
+Protocol: HTTP/1.1
+Method: GET
+Scheme: http
+PathBase: 
+Path: /swagger/swagger-ui-bundle.js
+Accept: */*
+Connection: keep-alive
+Host: localhost:5106
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Safari/537.36
+Accept-Encoding: gzip, deflate, br, zstd
+Accept-Language: en,ar;q=0.9,ru;q=0.8
+If-None-Match: [Redacted]
+Referer: [Redacted]
+sec-ch-ua-platform: [Redacted]
+sec-ch-ua: [Redacted]
+sec-ch-ua-mobile: [Redacted]
+Sec-Fetch-Site: [Redacted]
+Sec-Fetch-Mode: [Redacted]
+Sec-Fetch-Dest: [Redacted]
+2026-11-18 18:58:30.514 +02:00 [INF] Response:
+StatusCode: 304
+ETag: [Redacted]
+Vary: [Redacted]
+2026-11-18 18:58:30.514 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5106/swagger/swagger-ui-bundle.js - 304 null null 0.443ms
+2026-11-18 18:58:30.523 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5106/_framework/aspnetcore-browser-refresh.js - null null
+2026-11-18 18:58:30.523 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5106/swagger/index.js - null null
+2026-11-18 18:58:30.523 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5106/_framework/aspnetcore-browser-refresh.js - 200 14901 application/javascript; charset=utf-8 0.2847ms
+2026-11-18 18:58:30.523 +02:00 [INF] Request:
+Protocol: HTTP/1.1
+Method: GET
+Scheme: http
+PathBase: 
+Path: /swagger/index.js
+Accept: */*
+Connection: keep-alive
+Host: localhost:5106
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Safari/537.36
+Accept-Encoding: gzip, deflate, br, zstd
+Accept-Language: en,ar;q=0.9,ru;q=0.8
+If-None-Match: [Redacted]
+Referer: [Redacted]
+sec-ch-ua-platform: [Redacted]
+sec-ch-ua: [Redacted]
+sec-ch-ua-mobile: [Redacted]
+Sec-Fetch-Site: [Redacted]
+Sec-Fetch-Mode: [Redacted]
+Sec-Fetch-Dest: [Redacted]
+2026-11-18 18:58:30.523 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5106/swagger/swagger-ui-standalone-preset.js - null null
+2026-11-18 18:58:30.523 +02:00 [INF] Request:
+Protocol: HTTP/1.1
+Method: GET
+Scheme: http
+PathBase: 
+Path: /swagger/swagger-ui-standalone-preset.js
+Accept: */*
+Connection: keep-alive
+Host: localhost:5106
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Safari/537.36
+Accept-Encoding: gzip, deflate, br, zstd
+Accept-Language: en,ar;q=0.9,ru;q=0.8
+If-None-Match: [Redacted]
+Referer: [Redacted]
+sec-ch-ua-platform: [Redacted]
+sec-ch-ua: [Redacted]
+sec-ch-ua-mobile: [Redacted]
+Sec-Fetch-Site: [Redacted]
+Sec-Fetch-Mode: [Redacted]
+Sec-Fetch-Dest: [Redacted]
+2026-11-18 18:58:30.524 +02:00 [INF] Response:
+StatusCode: 304
+ETag: [Redacted]
+Vary: [Redacted]
+2026-11-18 18:58:30.524 +02:00 [INF] Response:
+StatusCode: 304
+2026-11-18 18:58:30.524 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5106/swagger/swagger-ui-standalone-preset.js - 304 null null 0.3291ms
+2026-11-18 18:58:30.524 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5106/swagger/index.js - 304 null null 0.6612ms
+2026-11-18 18:58:30.593 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5106/swagger/v1/swagger.json - null null
+2026-11-18 18:58:30.594 +02:00 [INF] Request:
+Protocol: HTTP/1.1
+Method: GET
+Scheme: http
+PathBase: 
+Path: /swagger/v1/swagger.json
+Accept: application/json,*/*
+Connection: keep-alive
+Host: localhost:5106
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Safari/537.36
+Accept-Encoding: gzip, deflate, br, zstd
+Accept-Language: en,ar;q=0.9,ru;q=0.8
+Referer: [Redacted]
+sec-ch-ua-platform: [Redacted]
+sec-ch-ua: [Redacted]
+sec-ch-ua-mobile: [Redacted]
+Sec-Fetch-Site: [Redacted]
+Sec-Fetch-Mode: [Redacted]
+Sec-Fetch-Dest: [Redacted]
+2026-11-18 18:58:30.594 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5106/swagger/favicon-32x32.png - null null
+2026-11-18 18:58:30.595 +02:00 [INF] Request:
+Protocol: HTTP/1.1
+Method: GET
+Scheme: http
+PathBase: 
+Path: /swagger/favicon-32x32.png
+Accept: image/jxl,image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Connection: keep-alive
+Host: localhost:5106
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Safari/537.36
+Accept-Encoding: gzip, deflate, br, zstd
+Accept-Language: en,ar;q=0.9,ru;q=0.8
+If-None-Match: [Redacted]
+Referer: [Redacted]
+sec-ch-ua-platform: [Redacted]
+sec-ch-ua: [Redacted]
+sec-ch-ua-mobile: [Redacted]
+Sec-Fetch-Site: [Redacted]
+Sec-Fetch-Mode: [Redacted]
+Sec-Fetch-Dest: [Redacted]
+2026-11-18 18:58:30.595 +02:00 [INF] Response:
+StatusCode: 304
+ETag: [Redacted]
+Vary: [Redacted]
+2026-11-18 18:58:30.595 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5106/swagger/favicon-32x32.png - 304 null null 0.5145ms
+2026-11-18 18:58:30.597 +02:00 [INF] Response:
+StatusCode: 200
+Content-Type: application/json;charset=utf-8
+Date: Wed, 18 Nov 2026 16:58:29 GMT
+Server: Kestrel
+Transfer-Encoding: chunked
+2026-11-18 18:58:30.597 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5106/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 3.3515ms
+2026-11-18 18:58:37.153 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5106/swagger/index.html - null null
+2026-11-18 18:58:37.154 +02:00 [INF] Request:
+Protocol: HTTP/1.1
+Method: GET
+Scheme: http
+PathBase: 
+Path: /swagger/index.html
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/jxl,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Connection: keep-alive
+Host: localhost:5106
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Safari/537.36
+Accept-Encoding: gzip, deflate, br, zstd
+Accept-Language: en,ar;q=0.9,ru;q=0.8
+Cache-Control: max-age=0
+If-None-Match: [Redacted]
+Referer: [Redacted]
+Upgrade-Insecure-Requests: [Redacted]
+sec-ch-ua: [Redacted]
+sec-ch-ua-mobile: [Redacted]
+sec-ch-ua-platform: [Redacted]
+Sec-Fetch-Site: [Redacted]
+Sec-Fetch-Mode: [Redacted]
+Sec-Fetch-Dest: [Redacted]
+2026-11-18 18:58:37.154 +02:00 [INF] Response:
+StatusCode: 304
+2026-11-18 18:58:37.154 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5106/swagger/index.html - 304 null null 1.0803ms
+2026-11-18 18:58:37.161 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5106/swagger/swagger-ui.css - null null
+2026-11-18 18:58:37.161 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5106/swagger/index.css - null null
+2026-11-18 18:58:37.161 +02:00 [INF] Request:
+Protocol: HTTP/1.1
+Method: GET
+Scheme: http
+PathBase: 
+Path: /swagger/swagger-ui.css
+Accept: text/css,*/*;q=0.1
+Connection: keep-alive
+Host: localhost:5106
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Safari/537.36
+Accept-Encoding: gzip, deflate, br, zstd
+Accept-Language: en,ar;q=0.9,ru;q=0.8
+If-None-Match: [Redacted]
+Referer: [Redacted]
+sec-ch-ua-platform: [Redacted]
+sec-ch-ua: [Redacted]
+sec-ch-ua-mobile: [Redacted]
+Sec-Fetch-Site: [Redacted]
+Sec-Fetch-Mode: [Redacted]
+Sec-Fetch-Dest: [Redacted]
+2026-11-18 18:58:37.161 +02:00 [INF] Request:
+Protocol: HTTP/1.1
+Method: GET
+Scheme: http
+PathBase: 
+Path: /swagger/index.css
+Accept: text/css,*/*;q=0.1
+Connection: keep-alive
+Host: localhost:5106
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Safari/537.36
+Accept-Encoding: gzip, deflate, br, zstd
+Accept-Language: en,ar;q=0.9,ru;q=0.8
+If-None-Match: [Redacted]
+Referer: [Redacted]
+sec-ch-ua-platform: [Redacted]
+sec-ch-ua: [Redacted]
+sec-ch-ua-mobile: [Redacted]
+Sec-Fetch-Site: [Redacted]
+Sec-Fetch-Mode: [Redacted]
+Sec-Fetch-Dest: [Redacted]
+2026-11-18 18:58:37.161 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5106/swagger/swagger-ui-bundle.js - null null
+2026-11-18 18:58:37.161 +02:00 [INF] Request:
+Protocol: HTTP/1.1
+Method: GET
+Scheme: http
+PathBase: 
+Path: /swagger/swagger-ui-bundle.js
+Accept: */*
+Connection: keep-alive
+Host: localhost:5106
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Safari/537.36
+Accept-Encoding: gzip, deflate, br, zstd
+Accept-Language: en,ar;q=0.9,ru;q=0.8
+If-None-Match: [Redacted]
+Referer: [Redacted]
+sec-ch-ua-platform: [Redacted]
+sec-ch-ua: [Redacted]
+sec-ch-ua-mobile: [Redacted]
+Sec-Fetch-Site: [Redacted]
+Sec-Fetch-Mode: [Redacted]
+Sec-Fetch-Dest: [Redacted]
+2026-11-18 18:58:37.161 +02:00 [INF] Response:
+StatusCode: 304
+ETag: [Redacted]
+Vary: [Redacted]
+2026-11-18 18:58:37.161 +02:00 [INF] Response:
+StatusCode: 304
+ETag: [Redacted]
+Vary: [Redacted]
+2026-11-18 18:58:37.161 +02:00 [INF] Response:
+StatusCode: 304
+ETag: [Redacted]
+Vary: [Redacted]
+2026-11-18 18:58:37.162 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5106/swagger/swagger-ui.css - 304 null null 0.2588ms
+2026-11-18 18:58:37.162 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5106/swagger/swagger-ui-bundle.js - 304 null null 0.1584ms
+2026-11-18 18:58:37.162 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5106/swagger/index.css - 304 null null 0.2431ms
+2026-11-18 18:58:37.167 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5106/swagger/swagger-ui-standalone-preset.js - null null
+2026-11-18 18:58:37.167 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5106/swagger/index.js - null null
+2026-11-18 18:58:37.167 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5106/_framework/aspnetcore-browser-refresh.js - null null
+2026-11-18 18:58:37.167 +02:00 [INF] Request:
+Protocol: HTTP/1.1
+Method: GET
+Scheme: http
+PathBase: 
+Path: /swagger/index.js
+Accept: */*
+Connection: keep-alive
+Host: localhost:5106
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Safari/537.36
+Accept-Encoding: gzip, deflate, br, zstd
+Accept-Language: en,ar;q=0.9,ru;q=0.8
+If-None-Match: [Redacted]
+Referer: [Redacted]
+sec-ch-ua-platform: [Redacted]
+sec-ch-ua: [Redacted]
+sec-ch-ua-mobile: [Redacted]
+Sec-Fetch-Site: [Redacted]
+Sec-Fetch-Mode: [Redacted]
+Sec-Fetch-Dest: [Redacted]
+2026-11-18 18:58:37.167 +02:00 [INF] Request:
+Protocol: HTTP/1.1
+Method: GET
+Scheme: http
+PathBase: 
+Path: /swagger/swagger-ui-standalone-preset.js
+Accept: */*
+Connection: keep-alive
+Host: localhost:5106
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Safari/537.36
+Accept-Encoding: gzip, deflate, br, zstd
+Accept-Language: en,ar;q=0.9,ru;q=0.8
+If-None-Match: [Redacted]
+Referer: [Redacted]
+sec-ch-ua-platform: [Redacted]
+sec-ch-ua: [Redacted]
+sec-ch-ua-mobile: [Redacted]
+Sec-Fetch-Site: [Redacted]
+Sec-Fetch-Mode: [Redacted]
+Sec-Fetch-Dest: [Redacted]
+2026-11-18 18:58:37.167 +02:00 [INF] Response:
+StatusCode: 304
+ETag: [Redacted]
+Vary: [Redacted]
+2026-11-18 18:58:37.167 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5106/_framework/aspnetcore-browser-refresh.js - 200 14901 application/javascript; charset=utf-8 0.1553ms
+2026-11-18 18:58:37.167 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5106/swagger/swagger-ui-standalone-preset.js - 304 null null 0.2923ms
+2026-11-18 18:58:37.167 +02:00 [INF] Response:
+StatusCode: 304
+2026-11-18 18:58:37.167 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5106/swagger/index.js - 304 null null 0.3924ms
+2026-11-18 18:58:37.219 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5106/swagger/v1/swagger.json - null null
+2026-11-18 18:58:37.219 +02:00 [INF] Request:
+Protocol: HTTP/1.1
+Method: GET
+Scheme: http
+PathBase: 
+Path: /swagger/v1/swagger.json
+Accept: application/json,*/*
+Connection: keep-alive
+Host: localhost:5106
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Safari/537.36
+Accept-Encoding: gzip, deflate, br, zstd
+Accept-Language: en,ar;q=0.9,ru;q=0.8
+Referer: [Redacted]
+sec-ch-ua-platform: [Redacted]
+sec-ch-ua: [Redacted]
+sec-ch-ua-mobile: [Redacted]
+Sec-Fetch-Site: [Redacted]
+Sec-Fetch-Mode: [Redacted]
+Sec-Fetch-Dest: [Redacted]
+2026-11-18 18:58:37.220 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5106/swagger/favicon-32x32.png - null null
+2026-11-18 18:58:37.220 +02:00 [INF] Request:
+Protocol: HTTP/1.1
+Method: GET
+Scheme: http
+PathBase: 
+Path: /swagger/favicon-32x32.png
+Accept: image/jxl,image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Connection: keep-alive
+Host: localhost:5106
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Safari/537.36
+Accept-Encoding: gzip, deflate, br, zstd
+Accept-Language: en,ar;q=0.9,ru;q=0.8
+If-None-Match: [Redacted]
+Referer: [Redacted]
+sec-ch-ua-platform: [Redacted]
+sec-ch-ua: [Redacted]
+sec-ch-ua-mobile: [Redacted]
+Sec-Fetch-Site: [Redacted]
+Sec-Fetch-Mode: [Redacted]
+Sec-Fetch-Dest: [Redacted]
+2026-11-18 18:58:37.220 +02:00 [INF] Response:
+StatusCode: 304
+ETag: [Redacted]
+Vary: [Redacted]
+2026-11-18 18:58:37.220 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5106/swagger/favicon-32x32.png - 304 null null 0.1787ms
+2026-11-18 18:58:37.224 +02:00 [INF] Response:
+StatusCode: 200
+Content-Type: application/json;charset=utf-8
+Date: Wed, 18 Nov 2026 16:58:37 GMT
+Server: Kestrel
+Transfer-Encoding: chunked
+2026-11-18 18:58:37.224 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5106/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 4.3452ms
+2026-11-18 18:58:55.983 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5106/swagger/index.html - null null
+2026-11-18 18:58:55.983 +02:00 [INF] Request:
+Protocol: HTTP/1.1
+Method: GET
+Scheme: http
+PathBase: 
+Path: /swagger/index.html
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/jxl,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Connection: keep-alive
+Host: localhost:5106
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Safari/537.36
+Accept-Encoding: gzip, deflate, br, zstd
+Accept-Language: en,ar;q=0.9,ru;q=0.8
+Cache-Control: max-age=0
+If-None-Match: [Redacted]
+Referer: [Redacted]
+Upgrade-Insecure-Requests: [Redacted]
+sec-ch-ua: [Redacted]
+sec-ch-ua-mobile: [Redacted]
+sec-ch-ua-platform: [Redacted]
+Sec-Fetch-Site: [Redacted]
+Sec-Fetch-Mode: [Redacted]
+Sec-Fetch-Dest: [Redacted]
+2026-11-18 18:58:55.983 +02:00 [INF] Response:
+StatusCode: 304
+2026-11-18 18:58:55.983 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5106/swagger/index.html - 304 null null 0.9049ms
+2026-11-18 18:58:55.990 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5106/swagger/swagger-ui.css - null null
+2026-11-18 18:58:55.990 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5106/swagger/index.css - null null
+2026-11-18 18:58:55.990 +02:00 [INF] Request:
+Protocol: HTTP/1.1
+Method: GET
+Scheme: http
+PathBase: 
+Path: /swagger/swagger-ui.css
+Accept: text/css,*/*;q=0.1
+Connection: keep-alive
+Host: localhost:5106
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Safari/537.36
+Accept-Encoding: gzip, deflate, br, zstd
+Accept-Language: en,ar;q=0.9,ru;q=0.8
+If-None-Match: [Redacted]
+Referer: [Redacted]
+sec-ch-ua-platform: [Redacted]
+sec-ch-ua: [Redacted]
+sec-ch-ua-mobile: [Redacted]
+Sec-Fetch-Site: [Redacted]
+Sec-Fetch-Mode: [Redacted]
+Sec-Fetch-Dest: [Redacted]
+2026-11-18 18:58:55.990 +02:00 [INF] Request:
+Protocol: HTTP/1.1
+Method: GET
+Scheme: http
+PathBase: 
+Path: /swagger/index.css
+Accept: text/css,*/*;q=0.1
+Connection: keep-alive
+Host: localhost:5106
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Safari/537.36
+Accept-Encoding: gzip, deflate, br, zstd
+Accept-Language: en,ar;q=0.9,ru;q=0.8
+If-None-Match: [Redacted]
+Referer: [Redacted]
+sec-ch-ua-platform: [Redacted]
+sec-ch-ua: [Redacted]
+sec-ch-ua-mobile: [Redacted]
+Sec-Fetch-Site: [Redacted]
+Sec-Fetch-Mode: [Redacted]
+Sec-Fetch-Dest: [Redacted]
+2026-11-18 18:58:55.990 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5106/swagger/swagger-ui-bundle.js - null null
+2026-11-18 18:58:55.990 +02:00 [INF] Request:
+Protocol: HTTP/1.1
+Method: GET
+Scheme: http
+PathBase: 
+Path: /swagger/swagger-ui-bundle.js
+Accept: */*
+Connection: keep-alive
+Host: localhost:5106
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Safari/537.36
+Accept-Encoding: gzip, deflate, br, zstd
+Accept-Language: en,ar;q=0.9,ru;q=0.8
+If-None-Match: [Redacted]
+Referer: [Redacted]
+sec-ch-ua-platform: [Redacted]
+sec-ch-ua: [Redacted]
+sec-ch-ua-mobile: [Redacted]
+Sec-Fetch-Site: [Redacted]
+Sec-Fetch-Mode: [Redacted]
+Sec-Fetch-Dest: [Redacted]
+2026-11-18 18:58:55.991 +02:00 [INF] Response:
+StatusCode: 304
+ETag: [Redacted]
+Vary: [Redacted]
+2026-11-18 18:58:55.991 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5106/swagger/index.css - 304 null null 1.4733ms
+2026-11-18 18:58:55.991 +02:00 [INF] Response:
+StatusCode: 304
+ETag: [Redacted]
+Vary: [Redacted]
+2026-11-18 18:58:55.991 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5106/swagger/swagger-ui-bundle.js - 304 null null 1.4716ms
+2026-11-18 18:58:55.991 +02:00 [INF] Response:
+StatusCode: 304
+ETag: [Redacted]
+Vary: [Redacted]
+2026-11-18 18:58:55.992 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5106/swagger/swagger-ui.css - 304 null null 1.8883ms
+2026-11-18 18:58:55.998 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5106/_framework/aspnetcore-browser-refresh.js - null null
+2026-11-18 18:58:55.998 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5106/swagger/index.js - null null
+2026-11-18 18:58:55.998 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5106/swagger/swagger-ui-standalone-preset.js - null null
+2026-11-18 18:58:55.999 +02:00 [INF] Request:
+Protocol: HTTP/1.1
+Method: GET
+Scheme: http
+PathBase: 
+Path: /swagger/index.js
+Accept: */*
+Connection: keep-alive
+Host: localhost:5106
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Safari/537.36
+Accept-Encoding: gzip, deflate, br, zstd
+Accept-Language: en,ar;q=0.9,ru;q=0.8
+If-None-Match: [Redacted]
+Referer: [Redacted]
+sec-ch-ua-platform: [Redacted]
+sec-ch-ua: [Redacted]
+sec-ch-ua-mobile: [Redacted]
+Sec-Fetch-Site: [Redacted]
+Sec-Fetch-Mode: [Redacted]
+Sec-Fetch-Dest: [Redacted]
+2026-11-18 18:58:55.999 +02:00 [INF] Request:
+Protocol: HTTP/1.1
+Method: GET
+Scheme: http
+PathBase: 
+Path: /swagger/swagger-ui-standalone-preset.js
+Accept: */*
+Connection: keep-alive
+Host: localhost:5106
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Safari/537.36
+Accept-Encoding: gzip, deflate, br, zstd
+Accept-Language: en,ar;q=0.9,ru;q=0.8
+If-None-Match: [Redacted]
+Referer: [Redacted]
+sec-ch-ua-platform: [Redacted]
+sec-ch-ua: [Redacted]
+sec-ch-ua-mobile: [Redacted]
+Sec-Fetch-Site: [Redacted]
+Sec-Fetch-Mode: [Redacted]
+Sec-Fetch-Dest: [Redacted]
+2026-11-18 18:58:55.999 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5106/_framework/aspnetcore-browser-refresh.js - 200 14901 application/javascript; charset=utf-8 0.1637ms
+2026-11-18 18:58:55.999 +02:00 [INF] Response:
+StatusCode: 304
+ETag: [Redacted]
+Vary: [Redacted]
+2026-11-18 18:58:55.999 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5106/swagger/swagger-ui-standalone-preset.js - 304 null null 0.2675ms
+2026-11-18 18:58:55.999 +02:00 [INF] Response:
+StatusCode: 304
+2026-11-18 18:58:55.999 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5106/swagger/index.js - 304 null null 0.411ms
+2026-11-18 18:58:56.072 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5106/swagger/v1/swagger.json - null null
+2026-11-18 18:58:56.072 +02:00 [INF] Request:
+Protocol: HTTP/1.1
+Method: GET
+Scheme: http
+PathBase: 
+Path: /swagger/v1/swagger.json
+Accept: application/json,*/*
+Connection: keep-alive
+Host: localhost:5106
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Safari/537.36
+Accept-Encoding: gzip, deflate, br, zstd
+Accept-Language: en,ar;q=0.9,ru;q=0.8
+Referer: [Redacted]
+sec-ch-ua-platform: [Redacted]
+sec-ch-ua: [Redacted]
+sec-ch-ua-mobile: [Redacted]
+Sec-Fetch-Site: [Redacted]
+Sec-Fetch-Mode: [Redacted]
+Sec-Fetch-Dest: [Redacted]
+2026-11-18 18:58:56.073 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5106/swagger/favicon-32x32.png - null null
+2026-11-18 18:58:56.073 +02:00 [INF] Request:
+Protocol: HTTP/1.1
+Method: GET
+Scheme: http
+PathBase: 
+Path: /swagger/favicon-32x32.png
+Accept: image/jxl,image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Connection: keep-alive
+Host: localhost:5106
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Safari/537.36
+Accept-Encoding: gzip, deflate, br, zstd
+Accept-Language: en,ar;q=0.9,ru;q=0.8
+If-None-Match: [Redacted]
+Referer: [Redacted]
+sec-ch-ua-platform: [Redacted]
+sec-ch-ua: [Redacted]
+sec-ch-ua-mobile: [Redacted]
+Sec-Fetch-Site: [Redacted]
+Sec-Fetch-Mode: [Redacted]
+Sec-Fetch-Dest: [Redacted]
+2026-11-18 18:58:56.074 +02:00 [INF] Response:
+StatusCode: 304
+ETag: [Redacted]
+Vary: [Redacted]
+2026-11-18 18:58:56.074 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5106/swagger/favicon-32x32.png - 304 null null 0.205ms
+2026-11-18 18:58:56.075 +02:00 [INF] Response:
+StatusCode: 200
+Content-Type: application/json;charset=utf-8
+Date: Wed, 18 Nov 2026 16:58:55 GMT
+Server: Kestrel
+Transfer-Encoding: chunked
+2026-11-18 18:58:56.075 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5106/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 3.0258ms
+2026-11-18 20:09:50.434 +02:00 [INF] Now listening on: http://localhost:5106
+2026-11-18 20:09:50.479 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2026-11-18 20:09:50.479 +02:00 [INF] Hosting environment: Development
+2026-11-18 20:09:50.479 +02:00 [INF] Content root path: C:\Users\DELL\OneDrive\Desktop\Wep-api\BasicWebApi
+2026-11-18 20:09:50.714 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5106/ - null null
+2026-11-18 20:09:50.746 +02:00 [INF] Request:
+Protocol: HTTP/1.1
+Method: GET
+Scheme: http
+PathBase: 
+Path: /
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/jxl,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Connection: keep-alive
+Host: localhost:5106
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Safari/537.36
+Accept-Encoding: gzip, deflate, br, zstd
+Accept-Language: en,ar;q=0.9,ru;q=0.8
+Upgrade-Insecure-Requests: [Redacted]
+sec-ch-ua: [Redacted]
+sec-ch-ua-mobile: [Redacted]
+sec-ch-ua-platform: [Redacted]
+Sec-Fetch-Site: [Redacted]
+Sec-Fetch-Mode: [Redacted]
+Sec-Fetch-User: [Redacted]
+Sec-Fetch-Dest: [Redacted]
+2026-11-18 20:09:50.765 +02:00 [INF] Response:
+StatusCode: 404
+2026-11-18 20:09:50.772 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5106/ - 404 null null 61.3925ms
+2026-11-18 20:09:50.774 +02:00 [INF] Request reached the end of the middleware pipeline without being handled by application code. Request path: GET http://localhost:5106/, Response status code: 404
+2026-11-18 20:11:44.516 +02:00 [INF] Application is shutting down...
+2026-11-18 20:43:31.883 +02:00 [INF] Now listening on: http://localhost:5106
+2026-11-18 20:43:31.924 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2026-11-18 20:43:31.925 +02:00 [INF] Hosting environment: Development
+2026-11-18 20:43:31.925 +02:00 [INF] Content root path: C:\Users\DELL\OneDrive\Desktop\Wep-api\BasicWebApi
+2026-11-18 20:43:33.364 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5106/ - null null
+2026-11-18 20:43:33.402 +02:00 [INF] Request:
+Protocol: HTTP/1.1
+Method: GET
+Scheme: http
+PathBase: 
+Path: /
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/jxl,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Connection: keep-alive
+Host: localhost:5106
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Safari/537.36
+Accept-Encoding: gzip, deflate, br, zstd
+Accept-Language: en,ar;q=0.9,ru;q=0.8
+Upgrade-Insecure-Requests: [Redacted]
+sec-ch-ua: [Redacted]
+sec-ch-ua-mobile: [Redacted]
+sec-ch-ua-platform: [Redacted]
+Sec-Fetch-Site: [Redacted]
+Sec-Fetch-Mode: [Redacted]
+Sec-Fetch-User: [Redacted]
+Sec-Fetch-Dest: [Redacted]
+2026-11-18 20:43:33.424 +02:00 [INF] Response:
+StatusCode: 404
+2026-11-18 20:43:33.431 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5106/ - 404 null null 70.4994ms
+2026-11-18 20:43:33.433 +02:00 [INF] Request reached the end of the middleware pipeline without being handled by application code. Request path: GET http://localhost:5106/, Response status code: 404
+2026-11-18 20:44:28.932 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5106/ - null null
+2026-11-18 20:44:28.934 +02:00 [INF] Request:
+Protocol: HTTP/1.1
+Method: GET
+Scheme: http
+PathBase: 
+Path: /
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/jxl,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Connection: keep-alive
+Host: localhost:5106
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Safari/537.36
+Accept-Encoding: gzip, deflate, br, zstd
+Accept-Language: en,ar;q=0.9,ru;q=0.8
+Cache-Control: max-age=0
+Upgrade-Insecure-Requests: [Redacted]
+sec-ch-ua: [Redacted]
+sec-ch-ua-mobile: [Redacted]
+sec-ch-ua-platform: [Redacted]
+Sec-Fetch-Site: [Redacted]
+Sec-Fetch-Mode: [Redacted]
+Sec-Fetch-User: [Redacted]
+Sec-Fetch-Dest: [Redacted]
+2026-11-18 20:44:28.935 +02:00 [INF] Response:
+StatusCode: 404
+2026-11-18 20:44:28.936 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5106/ - 404 null null 3.8366ms
+2026-11-18 20:44:28.936 +02:00 [INF] Request reached the end of the middleware pipeline without being handled by application code. Request path: GET http://localhost:5106/, Response status code: 404
+2026-11-18 20:48:22.419 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5106/swagger/index.html - null null
+2026-11-18 20:48:22.424 +02:00 [INF] Request:
+Protocol: HTTP/1.1
+Method: GET
+Scheme: http
+PathBase: 
+Path: /swagger/index.html
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/jxl,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Connection: keep-alive
+Host: localhost:5106
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Safari/537.36
+Accept-Encoding: gzip, deflate, br, zstd
+Accept-Language: en,ar;q=0.9,ru;q=0.8
+Upgrade-Insecure-Requests: [Redacted]
+sec-ch-ua: [Redacted]
+sec-ch-ua-mobile: [Redacted]
+sec-ch-ua-platform: [Redacted]
+Sec-Fetch-Site: [Redacted]
+Sec-Fetch-Mode: [Redacted]
+Sec-Fetch-User: [Redacted]
+Sec-Fetch-Dest: [Redacted]
+2026-11-18 20:48:22.781 +02:00 [INF] Response:
+StatusCode: 200
+Content-Type: text/html;charset=utf-8
+Date: Wed, 18 Nov 2026 18:48:22 GMT
+Server: Kestrel
+Cache-Control: [Redacted]
+ETag: [Redacted]
+Transfer-Encoding: chunked
+x-swagger-ui-version: [Redacted]
+2026-11-18 20:48:22.787 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5106/swagger/swagger-ui.css - null null
+2026-11-18 20:48:22.789 +02:00 [INF] Request:
+Protocol: HTTP/1.1
+Method: GET
+Scheme: http
+PathBase: 
+Path: /swagger/swagger-ui.css
+Accept: text/css,*/*;q=0.1
+Connection: keep-alive
+Host: localhost:5106
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Safari/537.36
+Accept-Encoding: gzip, deflate, br, zstd
+Accept-Language: en,ar;q=0.9,ru;q=0.8
+Referer: [Redacted]
+sec-ch-ua-platform: [Redacted]
+sec-ch-ua: [Redacted]
+sec-ch-ua-mobile: [Redacted]
+Sec-Fetch-Site: [Redacted]
+Sec-Fetch-Mode: [Redacted]
+Sec-Fetch-Dest: [Redacted]
+2026-11-18 20:48:22.789 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5106/swagger/index.css - null null
+2026-11-18 20:48:22.791 +02:00 [INF] Request:
+Protocol: HTTP/1.1
+Method: GET
+Scheme: http
+PathBase: 
+Path: /swagger/index.css
+Accept: text/css,*/*;q=0.1
+Connection: keep-alive
+Host: localhost:5106
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Safari/537.36
+Accept-Encoding: gzip, deflate, br, zstd
+Accept-Language: en,ar;q=0.9,ru;q=0.8
+Referer: [Redacted]
+sec-ch-ua-platform: [Redacted]
+sec-ch-ua: [Redacted]
+sec-ch-ua-mobile: [Redacted]
+Sec-Fetch-Site: [Redacted]
+Sec-Fetch-Mode: [Redacted]
+Sec-Fetch-Dest: [Redacted]
+2026-11-18 20:48:22.792 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5106/swagger/index.html - 200 null text/html;charset=utf-8 372.6513ms
+2026-11-18 20:48:22.797 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5106/swagger/swagger-ui-bundle.js - null null
+2026-11-18 20:48:22.797 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5106/swagger/swagger-ui-standalone-preset.js - null null
+2026-11-18 20:48:22.799 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5106/_framework/aspnetcore-browser-refresh.js - null null
+2026-11-18 20:48:22.799 +02:00 [INF] Request:
+Protocol: HTTP/1.1
+Method: GET
+Scheme: http
+PathBase: 
+Path: /swagger/swagger-ui-bundle.js
+Accept: */*
+Connection: keep-alive
+Host: localhost:5106
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Safari/537.36
+Accept-Encoding: gzip, deflate, br, zstd
+Accept-Language: en,ar;q=0.9,ru;q=0.8
+Referer: [Redacted]
+sec-ch-ua-platform: [Redacted]
+sec-ch-ua: [Redacted]
+sec-ch-ua-mobile: [Redacted]
+Sec-Fetch-Site: [Redacted]
+Sec-Fetch-Mode: [Redacted]
+Sec-Fetch-Dest: [Redacted]
+2026-11-18 20:48:22.799 +02:00 [INF] Request:
+Protocol: HTTP/1.1
+Method: GET
+Scheme: http
+PathBase: 
+Path: /swagger/swagger-ui-standalone-preset.js
+Accept: */*
+Connection: keep-alive
+Host: localhost:5106
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Safari/537.36
+Accept-Encoding: gzip, deflate, br, zstd
+Accept-Language: en,ar;q=0.9,ru;q=0.8
+Referer: [Redacted]
+sec-ch-ua-platform: [Redacted]
+sec-ch-ua: [Redacted]
+sec-ch-ua-mobile: [Redacted]
+Sec-Fetch-Site: [Redacted]
+Sec-Fetch-Mode: [Redacted]
+Sec-Fetch-Dest: [Redacted]
+2026-11-18 20:48:22.798 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5106/swagger/index.js - null null
+2026-11-18 20:48:22.800 +02:00 [INF] Request:
+Protocol: HTTP/1.1
+Method: GET
+Scheme: http
+PathBase: 
+Path: /swagger/index.js
+Accept: */*
+Connection: keep-alive
+Host: localhost:5106
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Safari/537.36
+Accept-Encoding: gzip, deflate, br, zstd
+Accept-Language: en,ar;q=0.9,ru;q=0.8
+Referer: [Redacted]
+sec-ch-ua-platform: [Redacted]
+sec-ch-ua: [Redacted]
+sec-ch-ua-mobile: [Redacted]
+Sec-Fetch-Site: [Redacted]
+Sec-Fetch-Mode: [Redacted]
+Sec-Fetch-Dest: [Redacted]
+2026-11-18 20:48:22.805 +02:00 [INF] Response:
+StatusCode: 200
+Content-Type: application/javascript;charset=utf-8
+Date: Wed, 18 Nov 2026 18:48:22 GMT
+Server: Kestrel
+Cache-Control: [Redacted]
+ETag: [Redacted]
+Transfer-Encoding: chunked
+x-swagger-ui-version: [Redacted]
+2026-11-18 20:48:22.807 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5106/swagger/index.js - 200 null application/javascript;charset=utf-8 8.6262ms
+2026-11-18 20:48:22.813 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5106/_framework/aspnetcore-browser-refresh.js - 200 14901 application/javascript; charset=utf-8 14.7073ms
+2026-11-18 20:48:22.833 +02:00 [INF] Response:
+StatusCode: 200
+Content-Type: text/css
+Date: Wed, 18 Nov 2026 18:48:22 GMT
+Server: Kestrel
+Cache-Control: [Redacted]
+Content-Encoding: [Redacted]
+ETag: [Redacted]
+Vary: [Redacted]
+Content-Length: 152
+2026-11-18 20:48:22.837 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5106/swagger/index.css - 200 152 text/css 46.3505ms
+2026-11-18 20:48:22.839 +02:00 [INF] Response:
+StatusCode: 200
+Content-Type: text/css
+Date: Wed, 18 Nov 2026 18:48:22 GMT
+Server: Kestrel
+Cache-Control: [Redacted]
+Content-Encoding: [Redacted]
+ETag: [Redacted]
+Vary: [Redacted]
+Content-Length: 27151
+2026-11-18 20:48:22.844 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5106/swagger/swagger-ui.css - 200 27151 text/css 53.1178ms
+2026-11-18 20:48:22.874 +02:00 [INF] Response:
+StatusCode: 200
+Content-Type: text/javascript
+Date: Wed, 18 Nov 2026 18:48:22 GMT
+Server: Kestrel
+Cache-Control: [Redacted]
+Content-Encoding: [Redacted]
+ETag: [Redacted]
+Vary: [Redacted]
+Content-Length: 81592
+2026-11-18 20:48:22.874 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5106/swagger/swagger-ui-standalone-preset.js - 200 81592 text/javascript 76.6636ms
+2026-11-18 20:48:22.972 +02:00 [INF] Response:
+StatusCode: 200
+Content-Type: text/javascript
+Date: Wed, 18 Nov 2026 18:48:22 GMT
+Server: Kestrel
+Cache-Control: [Redacted]
+Content-Encoding: [Redacted]
+ETag: [Redacted]
+Vary: [Redacted]
+Content-Length: 436518
+2026-11-18 20:48:22.991 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5106/swagger/swagger-ui-bundle.js - 200 436518 text/javascript 193.8367ms
+2026-11-18 20:48:23.820 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5106/swagger/v1/swagger.json - null null
+2026-11-18 20:48:23.821 +02:00 [INF] Request:
+Protocol: HTTP/1.1
+Method: GET
+Scheme: http
+PathBase: 
+Path: /swagger/v1/swagger.json
+Accept: application/json,*/*
+Connection: keep-alive
+Host: localhost:5106
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Safari/537.36
+Accept-Encoding: gzip, deflate, br, zstd
+Accept-Language: en,ar;q=0.9,ru;q=0.8
+Referer: [Redacted]
+sec-ch-ua-platform: [Redacted]
+sec-ch-ua: [Redacted]
+sec-ch-ua-mobile: [Redacted]
+Sec-Fetch-Site: [Redacted]
+Sec-Fetch-Mode: [Redacted]
+Sec-Fetch-Dest: [Redacted]
+2026-11-18 20:48:24.342 +02:00 [INF] Response:
+StatusCode: 200
+Content-Type: application/json;charset=utf-8
+Date: Wed, 18 Nov 2026 18:48:23 GMT
+Server: Kestrel
+Transfer-Encoding: chunked
+2026-11-18 20:48:24.343 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5106/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 523.0629ms
+2026-11-18 20:52:17.428 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5106/swagger/index.html - null null
+2026-11-18 20:52:17.428 +02:00 [INF] Request:
+Protocol: HTTP/1.1
+Method: GET
+Scheme: http
+PathBase: 
+Path: /swagger/index.html
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/jxl,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Connection: keep-alive
+Host: localhost:5106
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Safari/537.36
+Accept-Encoding: gzip, deflate, br, zstd
+Accept-Language: en,ar;q=0.9,ru;q=0.8
+Cache-Control: max-age=0
+If-None-Match: [Redacted]
+Referer: [Redacted]
+Upgrade-Insecure-Requests: [Redacted]
+sec-ch-ua: [Redacted]
+sec-ch-ua-mobile: [Redacted]
+sec-ch-ua-platform: [Redacted]
+Sec-Fetch-Site: [Redacted]
+Sec-Fetch-Mode: [Redacted]
+Sec-Fetch-Dest: [Redacted]
+2026-11-18 20:52:17.430 +02:00 [INF] Response:
+StatusCode: 304
+2026-11-18 20:52:17.430 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5106/swagger/index.html - 304 null null 2.1655ms
+2026-11-18 20:52:17.439 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5106/swagger/swagger-ui.css - null null
+2026-11-18 20:52:17.439 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5106/swagger/index.css - null null
+2026-11-18 20:52:17.439 +02:00 [INF] Request:
+Protocol: HTTP/1.1
+Method: GET
+Scheme: http
+PathBase: 
+Path: /swagger/index.css
+Accept: text/css,*/*;q=0.1
+Connection: keep-alive
+Host: localhost:5106
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Safari/537.36
+Accept-Encoding: gzip, deflate, br, zstd
+Accept-Language: en,ar;q=0.9,ru;q=0.8
+If-None-Match: [Redacted]
+Referer: [Redacted]
+sec-ch-ua-platform: [Redacted]
+sec-ch-ua: [Redacted]
+sec-ch-ua-mobile: [Redacted]
+Sec-Fetch-Site: [Redacted]
+Sec-Fetch-Mode: [Redacted]
+Sec-Fetch-Dest: [Redacted]
+2026-11-18 20:52:17.439 +02:00 [INF] Request:
+Protocol: HTTP/1.1
+Method: GET
+Scheme: http
+PathBase: 
+Path: /swagger/swagger-ui.css
+Accept: text/css,*/*;q=0.1
+Connection: keep-alive
+Host: localhost:5106
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Safari/537.36
+Accept-Encoding: gzip, deflate, br, zstd
+Accept-Language: en,ar;q=0.9,ru;q=0.8
+If-None-Match: [Redacted]
+Referer: [Redacted]
+sec-ch-ua-platform: [Redacted]
+sec-ch-ua: [Redacted]
+sec-ch-ua-mobile: [Redacted]
+Sec-Fetch-Site: [Redacted]
+Sec-Fetch-Mode: [Redacted]
+Sec-Fetch-Dest: [Redacted]
+2026-11-18 20:52:17.440 +02:00 [INF] Response:
+StatusCode: 304
+ETag: [Redacted]
+Vary: [Redacted]
+2026-11-18 20:52:17.440 +02:00 [INF] Response:
+StatusCode: 304
+ETag: [Redacted]
+Vary: [Redacted]
+2026-11-18 20:52:17.440 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5106/swagger/index.css - 304 null null 1.1641ms
+2026-11-18 20:52:17.440 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5106/swagger/swagger-ui.css - 304 null null 1.6193ms
+2026-11-18 20:52:17.441 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5106/swagger/swagger-ui-bundle.js - null null
+2026-11-18 20:52:17.441 +02:00 [INF] Request:
+Protocol: HTTP/1.1
+Method: GET
+Scheme: http
+PathBase: 
+Path: /swagger/swagger-ui-bundle.js
+Accept: */*
+Connection: keep-alive
+Host: localhost:5106
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Safari/537.36
+Accept-Encoding: gzip, deflate, br, zstd
+Accept-Language: en,ar;q=0.9,ru;q=0.8
+If-None-Match: [Redacted]
+Referer: [Redacted]
+sec-ch-ua-platform: [Redacted]
+sec-ch-ua: [Redacted]
+sec-ch-ua-mobile: [Redacted]
+Sec-Fetch-Site: [Redacted]
+Sec-Fetch-Mode: [Redacted]
+Sec-Fetch-Dest: [Redacted]
+2026-11-18 20:52:17.442 +02:00 [INF] Response:
+StatusCode: 304
+ETag: [Redacted]
+Vary: [Redacted]
+2026-11-18 20:52:17.442 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5106/swagger/swagger-ui-bundle.js - 304 null null 0.9104ms
+2026-11-18 20:52:17.450 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5106/_framework/aspnetcore-browser-refresh.js - null null
+2026-11-18 20:52:17.450 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5106/swagger/index.js - null null
+2026-11-18 20:52:17.450 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5106/swagger/swagger-ui-standalone-preset.js - null null
+2026-11-18 20:52:17.450 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5106/_framework/aspnetcore-browser-refresh.js - 200 14901 application/javascript; charset=utf-8 0.3459ms
+2026-11-18 20:52:17.450 +02:00 [INF] Request:
+Protocol: HTTP/1.1
+Method: GET
+Scheme: http
+PathBase: 
+Path: /swagger/index.js
+Accept: */*
+Connection: keep-alive
+Host: localhost:5106
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Safari/537.36
+Accept-Encoding: gzip, deflate, br, zstd
+Accept-Language: en,ar;q=0.9,ru;q=0.8
+If-None-Match: [Redacted]
+Referer: [Redacted]
+sec-ch-ua-platform: [Redacted]
+sec-ch-ua: [Redacted]
+sec-ch-ua-mobile: [Redacted]
+Sec-Fetch-Site: [Redacted]
+Sec-Fetch-Mode: [Redacted]
+Sec-Fetch-Dest: [Redacted]
+2026-11-18 20:52:17.450 +02:00 [INF] Request:
+Protocol: HTTP/1.1
+Method: GET
+Scheme: http
+PathBase: 
+Path: /swagger/swagger-ui-standalone-preset.js
+Accept: */*
+Connection: keep-alive
+Host: localhost:5106
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Safari/537.36
+Accept-Encoding: gzip, deflate, br, zstd
+Accept-Language: en,ar;q=0.9,ru;q=0.8
+If-None-Match: [Redacted]
+Referer: [Redacted]
+sec-ch-ua-platform: [Redacted]
+sec-ch-ua: [Redacted]
+sec-ch-ua-mobile: [Redacted]
+Sec-Fetch-Site: [Redacted]
+Sec-Fetch-Mode: [Redacted]
+Sec-Fetch-Dest: [Redacted]
+2026-11-18 20:52:17.451 +02:00 [INF] Response:
+StatusCode: 304
+ETag: [Redacted]
+Vary: [Redacted]
+2026-11-18 20:52:17.451 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5106/swagger/swagger-ui-standalone-preset.js - 304 null null 0.6067ms
+2026-11-18 20:52:17.451 +02:00 [INF] Response:
+StatusCode: 304
+2026-11-18 20:52:17.451 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5106/swagger/index.js - 304 null null 1.3264ms
+2026-11-18 20:52:17.722 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5106/swagger/v1/swagger.json - null null
+2026-11-18 20:52:17.722 +02:00 [INF] Request:
+Protocol: HTTP/1.1
+Method: GET
+Scheme: http
+PathBase: 
+Path: /swagger/v1/swagger.json
+Accept: application/json,*/*
+Connection: keep-alive
+Host: localhost:5106
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Safari/537.36
+Accept-Encoding: gzip, deflate, br, zstd
+Accept-Language: en,ar;q=0.9,ru;q=0.8
+Referer: [Redacted]
+sec-ch-ua-platform: [Redacted]
+sec-ch-ua: [Redacted]
+sec-ch-ua-mobile: [Redacted]
+Sec-Fetch-Site: [Redacted]
+Sec-Fetch-Mode: [Redacted]
+Sec-Fetch-Dest: [Redacted]
+2026-11-18 20:52:17.723 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5106/swagger/favicon-32x32.png - null null
+2026-11-18 20:52:17.723 +02:00 [INF] Request:
+Protocol: HTTP/1.1
+Method: GET
+Scheme: http
+PathBase: 
+Path: /swagger/favicon-32x32.png
+Accept: image/jxl,image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Connection: keep-alive
+Host: localhost:5106
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Safari/537.36
+Accept-Encoding: gzip, deflate, br, zstd
+Accept-Language: en,ar;q=0.9,ru;q=0.8
+Referer: [Redacted]
+sec-ch-ua-platform: [Redacted]
+sec-ch-ua: [Redacted]
+sec-ch-ua-mobile: [Redacted]
+Sec-Fetch-Site: [Redacted]
+Sec-Fetch-Mode: [Redacted]
+Sec-Fetch-Dest: [Redacted]
+2026-11-18 20:52:17.724 +02:00 [INF] Response:
+StatusCode: 200
+Content-Type: image/png
+Date: Wed, 18 Nov 2026 18:52:16 GMT
+Server: Kestrel
+Cache-Control: [Redacted]
+ETag: [Redacted]
+Vary: [Redacted]
+Content-Length: 628
+2026-11-18 20:52:17.724 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5106/swagger/favicon-32x32.png - 200 628 image/png 0.9846ms
+2026-11-18 20:52:17.728 +02:00 [INF] Response:
+StatusCode: 200
+Content-Type: application/json;charset=utf-8
+Date: Wed, 18 Nov 2026 18:52:16 GMT
+Server: Kestrel
+Transfer-Encoding: chunked
+2026-11-18 20:52:17.728 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5106/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 6.4036ms
+2026-11-18 20:53:23.544 +02:00 [INF] Application is shutting down...
+2026-11-18 20:53:33.429 +02:00 [INF] Now listening on: http://localhost:5106
+2026-11-18 20:53:33.473 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2026-11-18 20:53:33.473 +02:00 [INF] Hosting environment: Development
+2026-11-18 20:53:33.473 +02:00 [INF] Content root path: C:\Users\DELL\OneDrive\Desktop\Wep-api\BasicWebApi
+2026-11-18 20:53:35.429 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5106/swagger/v1/swagger.json - null null
+2026-11-18 20:53:35.450 +02:00 [INF] Request:
+Protocol: HTTP/1.1
+Method: GET
+Scheme: http
+PathBase: 
+Path: /swagger/v1/swagger.json
+Host: localhost:5106
+2026-11-18 20:53:35.551 +02:00 [INF] Response:
+StatusCode: 200
+Content-Type: application/json;charset=utf-8
+Date: Wed, 18 Nov 2026 18:53:35 GMT
+Server: Kestrel
+Transfer-Encoding: chunked
+2026-11-18 20:53:35.552 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5106/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 124.7243ms
